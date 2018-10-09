@@ -1,1 +1,2 @@
 # SIA_Arm_Operation
+使用SIA-Arm模拟一段喷漆操作，然后训练成DMP，用DMP的方式完成这段操作
